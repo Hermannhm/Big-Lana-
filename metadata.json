@@ -1,0 +1,8 @@
+{
+  "name": "Générateur de Codes-Barres, QR et Codes d'Accès",
+  "description": "Une application web intuitive pour générer des codes-barres EAN-13, des QR codes personnalisés, et des lots de codes d'accès uniques avec exportation CSV et téléchargement ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
